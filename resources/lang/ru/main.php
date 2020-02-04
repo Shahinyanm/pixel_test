@@ -1,0 +1,53 @@
+<?php
+
+return [
+    'add_user' => ' Добавить нового пользователя',
+    'users' => 'Пользователи',
+    'manage_users' => 'Управление пользователями',
+    'full_name' => 'Полное имя',
+    'email' => 'E-маил',
+    'registered' => 'Зарегистрирова',
+    'actions' => 'Действия',
+    'departments' => 'Отделы',
+    'add_department' => 'Добавить отдел',
+    'logo' => 'Лого',
+    'department_name' => 'Название отдела',
+    'are_you_sure' => 'Вы уверены?',
+    'department_will_be_destroyed' => 'Отдел будет удален',
+    'user_will_be_destroyed' => 'Пользователь будет удален?',
+    'confirm' => 'Да, я уверен',
+    'cancel' => 'Нет',
+    'department_is_deleting' => 'Отдел удаляется',
+    'user_is_deleting' => 'Пользователь удаляется',
+    'department_saved' => 'Отдел сохранен',
+    'user_saved' => 'Пользователь спасен :)',
+    'canceled' => 'Отменено',
+    'deleted' => 'Удалено',
+    'manage_departments' => 'Управление Отдело',
+    'description' => 'Описание',
+    'password' => 'Пароль',
+    'password_confirm' => 'Подтвердите пароль',
+
+    //Notifications
+
+    'user_updated_successfully' => 'Пользователь успешно обновлен',
+    'user_created_successfully' => 'Пользователь успешно создан',
+    'user_deleted_successfully' => 'Пользователь успешно удален',
+    'department_created_successfully' => 'Отдел успешно обновлен',
+    'department_updated_successfully' => 'Отдел успешно создан',
+    'department_deleted_successfully' => 'Отдел успешно удален',
+    'update_data' => 'Обновить данные',
+    'save_data' => 'Сохранить данные ',
+    'chose' => 'Выберите...',
+    'department_edit' => 'Редактировать отдел',
+    'department_create' => 'Создать отдел',
+    'user_create' => 'Редактировать пользователя',
+    'user_edit' => 'Создать пользователя',
+
+    'language' => 'Язык',
+    'department_and_users' => 'Отдел и пользователи',
+    'department_users' => ' Пользователи по отделам',
+    'created_at' => 'Создано',
+    'dashboard' => 'Домашняя',
+
+];
